@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is my blog powered by Jekyll with the Minima theme. I'll be sharing my thoughts and experiences here. 
+This is a minimal Jekyll blog where I post my thoughts. 
